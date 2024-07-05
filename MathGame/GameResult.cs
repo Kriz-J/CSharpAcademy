@@ -1,6 +1,6 @@
-﻿using MathGame.Kriz_J.Enums;
+﻿using MathGame.Enums;
 
-namespace MathGame.Kriz_J;
+namespace MathGame;
 
 public record GameResult(int Score, TimeSpan? TimeNeeded = null)
 {

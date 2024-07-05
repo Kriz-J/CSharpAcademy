@@ -1,4 +1,4 @@
-﻿namespace MathGame.Kriz_J;
+﻿namespace MathGame;
 
 public class ConsoleHelperMethods
 {

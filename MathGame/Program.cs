@@ -1,4 +1,4 @@
-﻿using MathGame.Kriz_J;
+﻿using MathGame;
 
 var mainMenu = new MainMenu();
 

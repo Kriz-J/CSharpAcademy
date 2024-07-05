@@ -1,6 +1,6 @@
-﻿ using MathGame.Kriz_J.Games;
+﻿ using MathGame.Games;
 
-namespace MathGame.Kriz_J;
+namespace MathGame;
 
 public class MainMenu
 {

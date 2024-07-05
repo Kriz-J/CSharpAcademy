@@ -1,6 +1,6 @@
-﻿using MathGame.Kriz_J.Enums;
+﻿using MathGame.Enums;
 
-namespace MathGame.Kriz_J.Games;
+namespace MathGame.Games;
 
 public class Division : Game
 {

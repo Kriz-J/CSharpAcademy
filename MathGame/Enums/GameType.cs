@@ -1,4 +1,4 @@
-﻿namespace MathGame.Kriz_J.Enums;
+﻿namespace MathGame.Enums;
 
 public enum GameType
 {
